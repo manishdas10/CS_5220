@@ -1,0 +1,39 @@
+Please complete the following and submit via CMS:
+
+1. About you:
+
+- How do you like to be called (including pronouns)?
+
+Manish (he/him)
+
+- What do you hope to get out of the course?
+
+I am a ChemE PhD student working with molecular simulations and work with simulation packages already parallelized and some Fortran codes (for Monte Carlo simulations) which are single core. I would like to have the knowldege to understand and make changes in the parallelized packages and also prossibly, parallelize some aspects of our in-house fortran codes for some studies I am currently doing.
+
+- Are there any concerns that you have at this point?
+
+I am a bit unfamiliar with general terminologies and don't have a 
+good mental picture of the computer architectures. I am working on improving that, but apart form that, the logic of the course structure sounds reasonable and really appealing to me.
+
+2. About a peer (someone you've introduced yourself to in class):
+
+- What is the person's name and academic area?
+
+Nishanth Murugan, a CheME PhD student who works on computational fluid dynamics
+
+- What is something interesting they shared?
+
+He is a part of an intramural football team and regularly competes in local tournaments
+
+3. About an application:
+
+Find an application area of parallel computing that you find
+interesting and say a little about it.  What are the challenges?  What
+is the current state of the art in terms of high-performance codes
+that address the problem?  Provide references (URLs are fine).
+
+Parallelizing Monte carlo simulations for molecular simulations with long range intermolecular potentials
+There are packages available that have parallel Monte-carlo codes for molecular simulations(https://glotzerlab.engin.umich.edu/hoomd-blue/), but they don't have the flexibility that some studies may require. 
+
+
+"Testing github push-pull"
